@@ -6,7 +6,8 @@
 }
 
 body {
-    background-color: ;
+    overflow-x: hidden;
+    background-color: #F4F4F2;
 }
 
 .navbar {
@@ -556,8 +557,9 @@ body {
   color: #ffffff;
   float: left;
   font-family: 'Lato', Arial, sans-serif;
+  border-radius: 10px;
   font-size: 16px;
-  margin: 10px 1%;
+  margin: 40px 40px;
   max-width: 310px;
   min-width: 250px;
   overflow: hidden;
@@ -658,4 +660,12 @@ body {
 .snip1527.hover img {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
+}
+
+.card-link {
+    color: white;
+}
+
+.pg-footer {
+    margin-top: 40px;
 }
