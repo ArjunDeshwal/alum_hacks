@@ -1,0 +1,1 @@
+This repository was created for the AlumHack Hackathon, where our team focused on enhancing the frontend of the ASIIC website at IIIT Allahabad. The project involved modernizing the design, improving user experience, and ensuring a responsive and visually appealing interface.
